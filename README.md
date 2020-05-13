@@ -1,5 +1,4 @@
-# weather_trends_analysis
-## by Florian Berger
+# Weather trend comparison (Munic vs. world)
 
 ## General
 This project contains a comparison of the average temperature development worldwide with the development
