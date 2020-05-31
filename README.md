@@ -1,9 +1,14 @@
-# Weather trend comparison (Munic vs. world)
-
-## General
+# Weather trend comparison
 This project contains a comparison of the average temperature development worldwide with the development
 in the Munich area over the last 250 years. This project has been created with jupyter notebook and was
-created within my 'data analyst' training at udacity.
+created within as project within the 'data analyst' course at udacity.
+
+## Installation
+### Dependencies
+- Python
+- Numpy
+- Pandas
+- Matplotlib
 
 
 ## Datasets
