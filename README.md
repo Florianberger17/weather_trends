@@ -9,7 +9,8 @@ via the udacity page ('https://www.udacity.com/').
 
 ## Installation
 - Jupyter Notebook
-### Dependencies
+#### Dependencies
+Execution of the .ipynb requires:
 - Python
 - Numpy
 - Pandas
