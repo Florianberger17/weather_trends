@@ -7,13 +7,10 @@ in the Munich area over the last 250 years. This project has been created with j
 The datasets 'weather_data_global' and 'weather_data_munich' have been accessed downloaded from a sql database
 via the udacity page ('https://www.udacity.com/').
 
-## Installation
-- Jupyter Notebook
-#### Dependencies
+## Dependencies
 Execution of the code requires:
-- Python
-- Numpy
-- Pandas
-- Matplotlib
-
-
+- Jupyter Notebook 6.0.3
+- Python 3.7.6
+- Numpy v1.19
+- Pandas 1.0.5
+- Matplotlib 3.2.2
